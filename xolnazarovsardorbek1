@@ -1,0 +1,32 @@
+#Lesson 05 - Internet
+
+Bugungi o'tgan mavzular:
+
+-Server&Client
+-IP:Internet Protocol
+-DNS:Domain Name System
+LAN:Local Area Network
+VPN:Virtual Private Network
+
+##Server
+
+Server-tarmoqda xizmat korsatuvchi kompyuter bo'lib,
+ma'lumotlarni mijozlarga yuboradi.
+Client-serverga ulanib undan ma'lumot qabul qiluvchi
+qurilma ,masalan(KOMPYUTER, TELEFON)
+##IP
+
+IP-tarmoqlarda qurilmalarni bir biridan farqlash uchun
+ishlatiladigan manzil tizimi.
+
+##DNS
+
+DNS-internetdagi domen nomlarini (masalan, edu.uz) IP manzillariga ozgarturivchi tizim
+
+##LAN
+
+LAN-kichik hududdagi qurilmalarni bog'lovchi tarmoq tizimi,masalan uyda ofisda yoki kafeda ishlatiladi.
+
+##VPN
+
+VPN turgan joyni yashirishga kerak boladigan tarmoq
